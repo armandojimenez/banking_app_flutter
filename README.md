@@ -1,4 +1,4 @@
-# coop_cards_poc
+# Banking Flutter App
 
 A Banking app design with beautiful screens and animations. Made in Flutter
 
