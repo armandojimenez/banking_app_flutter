@@ -1,10 +1,9 @@
 # coop_cards_poc
 
-A new Flutter project.
+A Banking app design with beautiful screens and animations. Made in Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
