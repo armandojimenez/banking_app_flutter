@@ -2,14 +2,13 @@
 
 A Banking app design with beautiful screens and animations. Made in Flutter
 
+![Bank Coop Demo](demo_gif/bank_coop_1.gif)
+![Bank Coop Demo](demo_gif/bank_coop_2.gif)
+
+![Bank Coop Demo](demo_gif/bank_coop_3.gif)
+
 ## Getting Started
 
+If you want to test drive this app in Flutter, please follow this link
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Run This App](https://flutter.dev/docs/get-started/test-drive)
